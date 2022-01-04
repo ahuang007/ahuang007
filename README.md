@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-![zu1k's github stats](https://github-readme-stats.vercel.app/api?username=zu1k&count_private=true&show_icons=true)
+![zu1k's github stats](https://github-readme-stats.vercel.app/api?username=ahuang007&count_private=true&show_icons=true)
 
-![](https://github-profile-trophy.vercel.app/?username=zu1k)
+![](https://github-profile-trophy.vercel.app/?username=ahuang007)
 
