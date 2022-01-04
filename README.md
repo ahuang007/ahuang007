@@ -22,3 +22,8 @@ Here are some ideas to get you started:
   <img width="500em" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahuang007&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+
+![zu1k's github stats](https://github-readme-stats.vercel.app/api?username=zu1k&count_private=true&show_icons=true)
+
+![](https://github-profile-trophy.vercel.app/?username=zu1k)
+
